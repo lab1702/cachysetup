@@ -15,6 +15,9 @@ yes | paru --needed -S \
   gcc-fortran \
   cmake \
   r \
+  rstudio-bin \
+  quarto-cli-bin \
+  pandoc-bin \
   go \
   rust \
   zig \
