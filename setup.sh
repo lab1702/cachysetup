@@ -2,7 +2,7 @@ echo "Updating..."
 paru
 
 echo "Installing packages..."
-paru --needed -S \
+paru --skipreview --needed -S \
   docker \
   docker-compose \
   docker-buildx \
@@ -18,6 +18,7 @@ paru --needed -S \
   zig \
   duckdb-bin \
   steam \
-  discord
+  discord \
+  megasync-bin
 
 echo "Done."
