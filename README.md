@@ -1,6 +1,6 @@
 # Simple CachyOS Developer Workstation Setup
 
-**This is focused around C, C++, R, Python, DuckDB, NodeJS, Go, Rust and Zig.**
+**This is focused around C, C++, R, Python, DuckDB, Go, Rust and Zig.**
 
 ## Step 1: Run Setup Script
 
