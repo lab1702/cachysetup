@@ -16,6 +16,8 @@ paru --needed -S \
   go \
   rust \
   zig \
-  duckdb-bin
+  duckdb-bin \
+  steam \
+  discord
 
 echo "Done."
