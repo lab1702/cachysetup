@@ -15,6 +15,7 @@ paru --needed -S \
   r \
   go \
   rust \
-  zig
+  zig \
+  duckdb-bin
 
 echo "Done."
