@@ -15,7 +15,7 @@ yes | paru --needed -S \
   gcc-fortran \
   cmake \
   r \
-  rstudio-bin \
+  rstudio-desktop-bin \
   quarto-cli-bin \
   pandoc-bin \
   go \
