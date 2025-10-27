@@ -4,7 +4,7 @@
 
 ## Step 1: Run Setup Script
 
-    curl -fsSL https://raw.githubusercontent.com/lab1702/cachysetup/refs/heads/main/setup.sh | fish
+    curl -fsSL https://raw.githubusercontent.com/lab1702/cachysetup/refs/heads/main/setup.sh | bash
 
 ## Optional: Setup Git Authentication
 
