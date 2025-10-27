@@ -2,7 +2,7 @@ echo "Updating..."
 paru
 
 echo "Installing packages..."
-paru --skipreview --needed -S \
+yes | paru --needed -S \
   docker \
   docker-compose \
   docker-buildx \
