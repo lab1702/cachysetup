@@ -23,4 +23,8 @@ yes | paru --needed -S \
   discord \
   megasync-bin
 
+echo "Configuring docker..."
+sudo systemctl enable docker
+sudo usermod -aG docker ${USER}
+
 echo "Done."
