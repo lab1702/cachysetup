@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Updating..."
-paru
+yes | paru
 
 echo "Installing packages..."
 yes | paru --needed -S \
