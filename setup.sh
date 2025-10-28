@@ -18,12 +18,15 @@ yes | paru --needed -S \
   rstudio-desktop-bin \
   quarto-cli-bin \
   pandoc-bin \
+  duckdb-bin \
   go \
   rust \
   zig \
   nodejs \
   npm \
-  duckdb-bin \
+  claude-code \
+  openai-codex \
+  github-copilot-cli \
   steam \
   discord \
   megasync-bin
