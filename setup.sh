@@ -7,6 +7,7 @@ echo "Installing packages..."
 yes | paru --needed -S \
   microsoft-edge-stable-bin \
   visual-studio-code-bin \
+  ttf-firacode-nerd \
   docker \
   docker-buildx \
   docker-compose \
