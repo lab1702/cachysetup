@@ -17,6 +17,8 @@ yes | paru --needed -S \
   r \
   openblas \
   blas-openblas \
+  gdal \
+  udunits \
   rstudio-desktop-bin \
   quarto-cli-bin \
   pandoc-bin \
