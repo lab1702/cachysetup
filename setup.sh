@@ -21,6 +21,8 @@ yes | paru --needed -S \
   go \
   rust \
   zig \
+  nodejs \
+  npm \
   duckdb-bin \
   steam \
   discord \
