@@ -5,16 +5,18 @@ yes | paru
 
 echo "Installing packages..."
 yes | paru --needed -S \
-  docker \
-  docker-compose \
-  docker-buildx \
   microsoft-edge-stable-bin \
   visual-studio-code-bin \
+  docker \
+  docker-buildx \
+  docker-compose \
   github-cli \
   tree \
-  gcc-fortran \
   cmake \
+  gcc-fortran \
   r \
+  openblas \
+  blas-openblas \
   rstudio-desktop-bin \
   quarto-cli-bin \
   pandoc-bin \
@@ -30,6 +32,9 @@ yes | paru --needed -S \
   steam \
   discord \
   megasync-bin
+
+echo "Uninstalling firefox..."
+paru -R firefox
 
 echo "Configuring docker..."
 sudo systemctl enable docker
