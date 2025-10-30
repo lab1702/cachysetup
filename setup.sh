@@ -1,10 +1,10 @@
 #!/bin/bash
 
 echo "Updating..."
-yes | paru
+paru
 
 echo "Installing packages..."
-yes | paru --needed -S \
+paru --needed -S \
   microsoft-edge-stable-bin \
   visual-studio-code-bin \
   ttf-firacode-nerd \
