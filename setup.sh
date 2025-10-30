@@ -19,8 +19,6 @@ paru --needed -S \
   udunits \
   r \
   rstudio-desktop-bin \
-  quarto-cli-bin \
-  pandoc-bin \
   duckdb-bin \
   go \
   rust \
