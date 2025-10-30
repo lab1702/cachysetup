@@ -31,9 +31,6 @@ paru --needed -S \
   discord \
   megasync-bin
 
-echo "Uninstalling firefox..."
-paru -R firefox
-
 echo "Configuring docker..."
 sudo systemctl enable docker
 sudo usermod -aG docker ${USER}
