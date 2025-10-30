@@ -15,11 +15,9 @@ yes | paru --needed -S \
   tree \
   cmake \
   gcc-fortran \
-  r \
-  openblas \
-  blas-openblas \
   gdal \
   udunits \
+  r \
   rstudio-desktop-bin \
   quarto-cli-bin \
   pandoc-bin \
@@ -32,7 +30,6 @@ yes | paru --needed -S \
   claude-code \
   openai-codex \
   github-copilot-cli \
-  steam \
   discord \
   megasync-bin
 
