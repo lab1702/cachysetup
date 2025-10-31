@@ -27,7 +27,6 @@
         npm \
         claude-code \
         openai-codex \
-        github-copilot-cli \
         discord \
         megasync-bin
 
