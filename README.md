@@ -33,7 +33,7 @@
 
 ## Step 2: Configure Docker
 
-    sudo usermod -aG docker ${USER}
+    sudo usermod -aG docker $USER
     sudo systemctl enable docker
 
 ## Optional: Setup Git Authentication
