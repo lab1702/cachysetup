@@ -36,6 +36,10 @@
     sudo usermod -aG docker $USER
     sudo systemctl enable docker
 
+## Optional: Remove Firefox
+
+    paru -R firefox
+
 ## Optional: Setup Git Authentication
 
 Step A:
