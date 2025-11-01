@@ -27,6 +27,7 @@
         npm \
         claude-code \
         openai-codex \
+        gemini-cli \
         discord \
         megasync-bin
 
