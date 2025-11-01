@@ -7,19 +7,17 @@
     paru --needed -S \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
-        ttf-firacode-nerd \
+        github-cli \
         docker \
         docker-buildx \
         docker-compose \
-        github-cli \
+        duckdb-bin \
         tree \
         cmake \
         gcc-fortran \
         gdal \
         udunits \
         r \
-        rstudio-desktop-bin \
-        duckdb-bin \
         go \
         rust \
         zig \
