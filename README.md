@@ -20,6 +20,8 @@
         r \
         go \
         rust \
+        nodejs \
+        npm \
         claude-code \
         openai-codex \
         gemini-cli \
