@@ -7,7 +7,6 @@
     paru --needed -S \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
-        helix \
         github-cli \
         docker \
         docker-buildx \
@@ -21,9 +20,6 @@
         r \
         go \
         rust \
-        zig \
-        nodejs \
-        npm \
         claude-code \
         openai-codex \
         gemini-cli \
