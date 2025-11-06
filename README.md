@@ -18,7 +18,6 @@
         gdal \
         udunits \
         r \
-        python-setuptools \
         python-virtualenv \
         uv \
         go \
