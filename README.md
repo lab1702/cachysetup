@@ -18,6 +18,7 @@
         gdal \
         udunits \
         r \
+        uv \
         go \
         rust \
         nodejs \
