@@ -19,8 +19,6 @@
         udunits \
         r \
         python-virtualenv \
-        python-jinja \
-        glances \
         uv \
         go \
         rust \
