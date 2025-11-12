@@ -27,7 +27,6 @@
         claude-code \
         openai-codex \
         gemini-cli \
-        opencode-bin \
         discord \
         megasync-bin
 
