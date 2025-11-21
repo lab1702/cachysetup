@@ -24,7 +24,6 @@
         rust \
         nodejs \
         npm \
-        claude-code \
         discord \
         megasync-bin
 
@@ -36,6 +35,10 @@
 ## Optional: Remove Firefox
 
     paru -R firefox
+
+## Optional: Setup Claude Code
+
+    curl -fsSL https://claude.ai/install.sh | bash
 
 ## Optional: Setup Git Authentication
 
