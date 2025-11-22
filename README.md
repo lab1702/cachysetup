@@ -25,7 +25,7 @@
         nodejs \
         npm \
         discord \
-        megasync-bin
+        megasync
 
 ## Step 2: Configure Docker
 
