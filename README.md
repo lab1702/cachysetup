@@ -32,10 +32,6 @@
     sudo usermod -aG docker $USER
     sudo systemctl enable docker
 
-## Optional: Remove Firefox
-
-    paru -R firefox
-
 ## Optional: Setup Claude Code
 
     curl -fsSL https://claude.ai/install.sh | bash
