@@ -14,6 +14,7 @@
         duckdb-bin \
         tree \
         cmake \
+        typst \
         gcc-fortran \
         gdal \
         udunits \
