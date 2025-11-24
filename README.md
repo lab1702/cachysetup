@@ -16,6 +16,7 @@
         tree \
         cmake \
         typst \
+        tinymist \
         gcc-fortran \
         gdal \
         udunits \
