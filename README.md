@@ -15,6 +15,7 @@
         duckdb-bin \
         tree \
         cmake \
+        ninja \
         typst \
         tinymist \
         gcc-fortran \
