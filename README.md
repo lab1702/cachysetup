@@ -7,6 +7,7 @@
     paru --needed -S \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
+        openai-codex \
         helix \
         github-cli \
         docker \
