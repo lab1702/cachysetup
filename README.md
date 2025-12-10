@@ -29,6 +29,8 @@
         nodejs \
         npm \
         discord \
+        qt5-wayland \
+        qt6-wayland \
         megasync
 
 ## Step 2: Configure Docker
