@@ -7,7 +7,6 @@
     paru --needed -S \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
-        opencode \
         helix \
         github-cli \
         docker \
@@ -40,10 +39,6 @@
 ## Optional: Setup Claude Code
 
     curl -fsSL https://claude.ai/install.sh | bash
-
-## Optional: Setup OpenCode
-
-    curl -fsSL https://opencode.ai/install | bash
 
 ## Optional: Setup Git Authentication
 
