@@ -24,6 +24,7 @@
         udunits \
         texlive \
         pandoc-cli \
+        quarto-cli-bin \
         tidy \
         r \
         python-virtualenv \
