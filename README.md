@@ -22,6 +22,7 @@
         gcc-fortran \
         gdal \
         udunits \
+        texlive \
         r \
         python-virtualenv \
         uv \
