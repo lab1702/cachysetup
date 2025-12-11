@@ -23,6 +23,8 @@
         gdal \
         udunits \
         texlive \
+        pandoc-cli \
+        tidy \
         r \
         python-virtualenv \
         uv \
