@@ -26,6 +26,9 @@
         pandoc-cli \
         quarto-cli-bin \
         tidy \
+        julia \
+        octave \
+        gnucobol \
         r \
         python-virtualenv \
         uv \
