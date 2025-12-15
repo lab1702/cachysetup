@@ -34,6 +34,7 @@
         uv \
         go \
         rust \
+        zig \
         nodejs \
         npm \
         discord \
