@@ -1,7 +1,5 @@
 # Simple CachyOS Developer Workstation Setup
 
-**This is focused around Python, C, C++, R, DuckDB, NodeJS, Go, Rust and Zig.**
-
 ## Step 1: Install Packages
 
     paru --needed -S \
