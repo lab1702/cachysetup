@@ -30,6 +30,7 @@
         r \
         python-virtualenv \
         uv \
+        ruff \
         go \
         rust \
         zig \
