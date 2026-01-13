@@ -31,6 +31,7 @@
         python-virtualenv \
         uv \
         ruff \
+        ty \
         go \
         rust \
         zig \
