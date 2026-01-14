@@ -46,6 +46,10 @@
     sudo usermod -aG docker $USER
     sudo systemctl enable docker
 
+## Step 3: Enable Clickhouse
+
+    sudo systemctl enable --now clickhouse-server.service
+
 ## Optional: Setup Claude Code
 
     curl -fsSL https://claude.ai/install.sh | bash
