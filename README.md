@@ -62,3 +62,7 @@ Step B:
 Step C:
 
     gh auth login
+
+Step D:
+
+    gh auth setup-git
