@@ -12,12 +12,12 @@
         docker-buildx \
         docker-compose \
         duckdb-bin \
-        clickhouse \
         tree \
         cmake \
         ninja \
         typst \
         tinymist \
+        gnuplot \
         gcc-fortran \
         gdal \
         udunits \
