@@ -6,6 +6,9 @@
         nerd-fonts \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
+        neovim \
+        emacs \
+        emacs-ess \
         helix \
         github-cli \
         docker \
