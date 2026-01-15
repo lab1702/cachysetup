@@ -34,7 +34,7 @@
         ruff \
         ty \
         go \
-        rust \
+        rustup \
         zig \
         nodejs \
         npm \
