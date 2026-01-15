@@ -8,7 +8,6 @@
         visual-studio-code-bin \
         neovim \
         emacs \
-        emacs-ess \
         helix \
         github-cli \
         docker \
