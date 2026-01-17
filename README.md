@@ -48,6 +48,18 @@
     sudo usermod -aG docker $USER
     sudo systemctl enable docker
 
+## Optional: Install Niri
+
+    paru --needed -S \
+        niri \
+        fuzzel \
+        mako \
+        org.freedesktop.secrets \
+        swaybg \
+        swaylock \
+        waybar \
+        xwayland-satellite 
+
 ## Optional: Setup Claude Code
 
     curl -fsSL https://claude.ai/install.sh | bash
