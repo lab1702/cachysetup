@@ -3,6 +3,7 @@
 ## Step 1: Install Packages
 
     paru --needed -S \
+        geoclue \
         nerd-fonts \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
