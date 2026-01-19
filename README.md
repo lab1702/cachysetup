@@ -13,7 +13,7 @@
         docker \
         docker-buildx \
         docker-compose \
-        duckdb-bin \
+        duckdb \
         tree \
         cmake \
         ninja \
