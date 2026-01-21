@@ -46,6 +46,10 @@
     sudo usermod -aG docker $USER
     sudo systemctl enable docker
 
+## Optional: Enable SSH Logins
+
+    sudo systemctl enable sshd
+
 ## Optional: Setup Claude Code
 
     curl -fsSL https://claude.ai/install.sh | bash
