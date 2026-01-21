@@ -6,8 +6,6 @@
         nerd-fonts \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
-        neovim \
-        emacs \
         helix \
         github-cli \
         docker \
@@ -47,18 +45,6 @@
 
     sudo usermod -aG docker $USER
     sudo systemctl enable docker
-
-## Optional: Install Niri
-
-    paru --needed -S \
-        niri \
-        fuzzel \
-        mako \
-        org.freedesktop.secrets \
-        swaybg \
-        swaylock \
-        waybar \
-        xwayland-satellite 
 
 ## Optional: Setup Claude Code
 
