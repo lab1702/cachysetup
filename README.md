@@ -11,6 +11,7 @@
         docker \
         docker-buildx \
         docker-compose \
+        htop \
         duckdb \
         tree \
         cmake \
