@@ -39,7 +39,8 @@
         nodejs \
         npm \
         discord \
-        megasync
+        megasync \
+        ydotool
 
 ## Step 2: Configure Docker
 
