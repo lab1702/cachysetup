@@ -6,7 +6,6 @@
         nerd-fonts \
         microsoft-edge-stable-bin \
         visual-studio-code-bin \
-        helix \
         github-cli \
         docker \
         docker-buildx \
@@ -27,7 +26,6 @@
         quarto-cli-bin \
         tidy \
         julia \
-        octave \
         gnucobol \
         r \
         python-virtualenv \
@@ -40,8 +38,7 @@
         nodejs \
         npm \
         discord \
-        megasync \
-        ydotool
+        megasync
 
 ## Step 2: Configure Docker
 
