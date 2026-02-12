@@ -4,7 +4,6 @@
 
     paru --needed -S \
         nerd-fonts \
-        microsoft-edge-stable-bin \
         visual-studio-code-bin \
         github-cli \
         docker \
