@@ -10,7 +10,6 @@
         docker \
         docker-buildx \
         docker-compose \
-        htop \
         duckdb \
         tree \
         cmake \
@@ -25,8 +24,6 @@
         pandoc-cli \
         quarto-cli-bin \
         tidy \
-        julia \
-        gnucobol \
         r \
         python-virtualenv \
         uv \
@@ -34,7 +31,6 @@
         ty \
         go \
         rustup \
-        zig \
         nodejs \
         npm \
         discord \
