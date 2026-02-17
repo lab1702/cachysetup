@@ -3,9 +3,8 @@
 ## Step 1: Install Packages
 
     paru --needed -S \
-        nerd-fonts \
-        microsoft-edge-stable-bin \
         visual-studio-code-bin \
+        helix \
         github-cli \
         docker \
         docker-buildx \
