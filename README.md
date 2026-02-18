@@ -24,6 +24,19 @@
         tidy \
         r \
         python-virtualenv \
+        python-pandas \
+        python-prophet \
+        python-scikit-learn \
+        python-openpyxl \
+        python-xlsxwriter \
+        python-statsmodels \
+        python-seaborn \
+        python-plotly \
+        python-bokeh \
+        python-altair \
+        python-reportlab \
+        python-streamlit \
+        jupyterlab \
         uv \
         ruff \
         ty \
