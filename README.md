@@ -15,6 +15,7 @@
         ninja \
         typst \
         tinymist \
+        typstyle \
         gnuplot \
         gcc-fortran \
         gdal \
