@@ -3,6 +3,7 @@
 ## Step 1: Install Packages
 
     paru --needed -S \
+        fprintd \
         visual-studio-code-bin \
         github-cli \
         docker \
