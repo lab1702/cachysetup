@@ -4,7 +4,6 @@
 
     paru --needed -S \
         visual-studio-code-bin \
-        helix \
         github-cli \
         docker \
         docker-buildx \
