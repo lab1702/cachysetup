@@ -32,12 +32,14 @@
         python-openpyxl \
         python-xlsxwriter \
         python-statsmodels \
+        python-mplfinance \
         python-seaborn \
         python-plotly \
         python-bokeh \
         python-altair \
         python-reportlab \
         python-streamlit \
+        python-yfinance \
         jupyterlab \
         uv \
         ruff \
