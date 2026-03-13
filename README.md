@@ -5,7 +5,6 @@
     paru --needed -S \
         fprintd \
         visual-studio-code-bin \
-        helix \
         github-cli \
         docker \
         docker-buildx \
